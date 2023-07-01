@@ -1,2 +1,2 @@
 # Sparkplug
-A CTRMap plugin which allows for editing of various (non-field) Generation V data. 
+A minimal example of a CTRMap plugin. Contains the bare minimum to interface with RTLDR.
